@@ -1,0 +1,6 @@
+﻿  Contact.c
+C:\Users\Administrator\source\repos\template0201\template0201\Contact.c(21,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+  test0201.c
+  正在生成代码...
+C:\Users\Administrator\source\repos\template0201\template0201\Contact.c(41,10): warning C4477: “printf”: 格式字符串“%5s”需要类型“char *”的参数，但可变参数 2 拥有了类型“int”
+  template0201.vcxproj -> C:\Users\Administrator\source\repos\template0201\Debug\template0201.exe
